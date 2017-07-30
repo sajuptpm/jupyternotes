@@ -1,0 +1,51 @@
+
+#################################################
+
+1)
+How to start jupyter and open files
+
+a)
+#git clone https://github.com/sajuptpm/basic_pyjupyter
+#cd basic_pyjupyter
+#jupyter notebook
+
+b)
+#Goto jupyter UI and open "*.ipynb" file
+#Click on "File" --> "Open",  then select "*.ipynb" file which you want to open
+
+#################################################
+
+2)
+How to run from first cell one by one
+
+#Select first cell with mouse, then click on run cell button >|
+
+#################################################
+
+3)
+Clear all cells output
+
+#Click on "Cell" --> "All Output" --> "Clear"
+
+#################################################
+
+4)
+Run all cells
+
+#Click on "Cell" --> "Run All"
+
+#################################################
+
+5)
+How to restart and clear all cells
+
+#Click on "Kernel" --> "Restart & Clear Output"
+
+#################################################
+
+6)
+
+
+#################################################
+
+
