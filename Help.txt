@@ -16,7 +16,21 @@ $ jupyter notebook
 
 #################################################
 
+a)
+List kernelspec
+$ jupyter kernelspec list
 
+Available kernels:
+  python2    /usr/local/share/jupyter/kernels/python2
+  python3    /usr/local/share/jupyter/kernels/python3
+
+b)
+Install python3 ipykernel
+$ sudo python3 -m ipykernel install
+
+c)
+Uninstall python3 ipykernel
+$ sudo ipython kernelspec uninstall python3
 
 
 
