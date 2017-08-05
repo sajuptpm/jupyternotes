@@ -58,17 +58,39 @@ You should now be able to see your (virtualenv) kernel in the IPython notebook m
 
 #################################################
 
+https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
 
+7)
+How to add new Cell
 
+a)
+Press "ESC" and go to command mode., Then
 
+"A" to insert a new cell above the current cell
 
+"B" to insert a new cell below.
+
+"M" to change the current cell to Markdown
+
+"Y" to change it back to code
+
+"D" + "D" (press the key twice) to delete the current cell
+
+b)
+"Enter" will take you from command mode back into edit mode for the given cell.
+
+"Ctrl" + "Shift" + "-" will split the current cell into two from where your cursor is.
+
+Shift + J or Shift + Down selects the next sell in a downwards direction. You can also select sells in an upwards direction by using Shift + K or Shift + Up.
+
+You can also use Shift + M to merge multiple cells.
 
 #################################################
 
+8)
+How to run a Cell.
 
-
-
-
+First Select the cell, then press "Ctrl" + Enter
 
 
 #################################################
