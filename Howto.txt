@@ -5,8 +5,8 @@
 How to start jupyter and open files
 
 a)
-#git clone https://github.com/sajuptpm/basic_pyjupyter
-#cd basic_pyjupyter
+#git clone https://github.com/sajuptpm/jupyternotes
+#cd jupyternotes
 #jupyter notebook
 
 b)
@@ -43,24 +43,9 @@ How to restart and clear all cells
 
 #################################################
 
-6)
-How to use virtualenv in IPython notebook
-
-$virtualenv myenv1
-
-$source myenv1/bin/activate
-
-$ pip install ipykernel
-
-$ python -m ipykernel install --user --name=myenv1
-
-You should now be able to see your (virtualenv) kernel in the IPython notebook menu: Kernel -> Change kernel and be able so switch to it 
-
-#################################################
-
 https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
 
-7)
+6)
 How to add new Cell
 
 a)
@@ -87,7 +72,7 @@ You can also use Shift + M to merge multiple cells.
 
 #################################################
 
-8)
+7)
 How to run a Cell.
 
 First Select the cell, then press "Ctrl" + Enter

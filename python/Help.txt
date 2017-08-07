@@ -1,6 +1,5 @@
 
 #################################################
-
 1)
 Bring python 3 in Jupyter notebook
 ======================================
@@ -14,8 +13,12 @@ $ pip3 install -U jupyter
 c)
 $ jupyter notebook
 
-#################################################
+d)
+Then run check_python_version.ipynb
+with python2.7 and python3 and confirm the version
 
+Follow below Steps if it not taken python3
+--------------------------------------------
 a)
 List kernelspec
 $ jupyter kernelspec list
@@ -33,6 +36,27 @@ Uninstall python3 ipykernel
 $ sudo ipython kernelspec uninstall python3
 
 
+#################################################
+2)
+How to use virtualenv in IPython notebook
+======================================
+
+$virtualenv myenv1
+
+$source myenv1/bin/activate
+
+$ pip install ipykernel
+
+$ python -m ipykernel install --user --name=myenv1
+
+You should now be able to see your (virtualenv) kernel in the IPython 
+notebook menu: Kernel -> Change kernel and be able so switch to it.
+
+
+#################################################
+
+
+
 
 
 
@@ -44,8 +68,10 @@ $ sudo ipython kernelspec uninstall python3
 
 
 
-
 #################################################
+
+
+
 
 
 
