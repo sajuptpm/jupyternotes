@@ -1,0 +1,16 @@
+
+
+1)
+https://coderwall.com/p/pegmzw/concat-strings-in-golang
+
+2)
+
+
+=========Exmaples for V=============
+
+ https://www.dotnetperls.com/
+
+
+
+boolean python - How to set python variables to true or false
+Short form for Java If statement
