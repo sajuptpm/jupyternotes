@@ -6,11 +6,14 @@ package main
 
 import "fmt"
 
-func main() {
+func main16() {
 
 	for i := 1; i <= 10; i++ {
 		fmt.Println(i)
 	}
+
+	//We cant access variable "i" here. scope of variable "i" is only inside the for loop.
+	//	fmt.Println(i)
 
 }
 

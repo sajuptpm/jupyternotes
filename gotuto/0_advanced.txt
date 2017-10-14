@@ -14,3 +14,10 @@ https://coderwall.com/p/pegmzw/concat-strings-in-golang
 
 boolean python - How to set python variables to true or false
 Short form for Java If statement
+
+
+
+3)
+How to run in atom:
+
+Shift + Ctrl + P,  then type "script:run"
