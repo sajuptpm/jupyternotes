@@ -15,6 +15,13 @@ func main16() {
 	//We cant access variable "i" here. scope of variable "i" is only inside the for loop.
 	//	fmt.Println(i)
 
+	/*
+				init ; condition; post;
+		for i := 1; i <= 10; i++ {
+			fmt.Println(i)
+		}
+	*/
+
 }
 
 /*

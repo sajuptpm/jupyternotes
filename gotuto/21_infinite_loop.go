@@ -1,6 +1,7 @@
 /*
   Infinite Loop
 */
+//A FOR LOOP without init statement, condition expression and post statement will act as an Infinite Loop.
 
 package main
 
@@ -15,27 +16,11 @@ func main21() {
 }
 
 /*
-
-func main() {
-
-	//init statement
-	i := 1
-
-	for {
-
+	//Syntax of for loop
+			init ; condition; post;
+	for i := 1; i <= 10; i++ {
 		fmt.Println(i)
-
-		if i == 20 {
-			break
-		}
-
-		//post statement
-		i++
 	}
-
-}
-
-
 */
 
 //https://tour.golang.org/flowcontrol/4

@@ -20,4 +20,11 @@ func main19() {
 		//i += 1
 	}
 
+	/*
+				init ; condition; post;
+		for i := 1; i <= 10; i++ {
+			fmt.Println(i)
+		}
+	*/
+
 }
